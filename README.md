@@ -15,7 +15,8 @@ Citation: TBA
 Please find Elastica 3D and the rat head model available with all Digital Rat files at: https://github.com/SeNSE-lab/DigitalRat/
 
 ## Figure Data
-File: [Huet_PLOSCB2022_figureData](https://github.com/SeNSE-lab/Huet_etal_PLOSCompBio2022_dataFiles/edit/main/README.md)
+File A: [Huet_PLOSCB2022_figureData_part1](https://github.com/SeNSE-lab/Huet_etal_PLOSCompBio2022_dataFiles/edit/main/README.md)
+File B: [Huet_PLOSCB2022_figureData_part2](https://github.com/SeNSE-lab/Huet_etal_PLOSCompBio2022_dataFiles/edit/main/README.md)
 
 ### Relevant Variables by Figure for the main text
 Fig 1: N/A
@@ -29,3 +30,10 @@ Fig 4: mapping_FX, mapping_FD, mapping_FT, mapping_MX, mapping_MB, mapping_MD, m
 Fig 5: sens_jac, sens_color, sens_pos
 
 Fig 6: gamma_undeflected, predicted_cp_world, predicted_cp_wobj, tracked_cp_world, predicted_rtp_wobj, tracked_rtp_wobj, tracked_basepoint, tracked_emergence
+
+### Relevant Variables by Figure for S1 Text
+Fig A: N/A
+
+Fig B: gamma_undeflected, gamma_deflected
+
+Fig C: mapping_ER, mapping_FX, mapping_FD, mapping_FT, mapping_MX, mapping_MB, mapping_MD, mapping_R, mapping_TH, mapping_PHI, mapping_POSx, mapping_POSy, mapping_POSz
